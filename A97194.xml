@@ -1,0 +1,272 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A great fight at Chepstow Castle in the west of England, betwixt the forces under the command of Lieutenant Gen. Cromwell, and the cavaliers commanded by Sir William Kelmish, governour of the said castle, and the number slaine on both sides. Also an exact relation of the late skirmish at White-Hall upon Tuesday last, May 16. between the Parliaments forces, and the inhabitants of Surrey, with the manner of their beginning, and occasion thereof. Together with a list of the number that were slain and taken prisoners on both sides. Likewise, a great rout in Northumberland, and the full particulars thereof.</title>
+            <author>R. W.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A97194</idno>
+            <idno type="STC">Wing W93</idno>
+            <idno type="STC">Thomason E443_14</idno>
+            <idno type="STC">ESTC R204721</idno>
+            <idno type="EEBO-CITATION">99864185</idno>
+            <idno type="PROQUEST">99864185</idno>
+            <idno type="VID">161707</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A97194)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161707)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 70:E443[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A great fight at Chepstow Castle in the west of England, betwixt the forces under the command of Lieutenant Gen. Cromwell, and the cavaliers commanded by Sir William Kelmish, governour of the said castle, and the number slaine on both sides. Also an exact relation of the late skirmish at White-Hall upon Tuesday last, May 16. between the Parliaments forces, and the inhabitants of Surrey, with the manner of their beginning, and occasion thereof. Together with a list of the number that were slain and taken prisoners on both sides. Likewise, a great rout in Northumberland, and the full particulars thereof.</title>
+                  <author>R. W.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. VVilliamson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXLVIII. [1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on p.[4]: R.W.</note>
+                  <note>Signatures: [A]⁴.</note>
+                  <note>Annotation on Thomason copy: "May 18th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Chepstow Castle (Chepstow, Wales) --  Siege, 1648 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161707:1" rendition="simple:additions"/>
+            <p>A GREAT FIGHT AT <hi>chepſtow</hi> Caſtle in the Weſt of <hi>England,</hi> betwixt the Forces under the command of Lieutenant Gen.
+<hi>Cromwell,</hi> and the Cavaliers commanded by Sir <hi>William Kelmiſh,</hi> Governour of the ſaid Caſtle, and the number ſlaine on both ſides.</p>
+            <p>Alſo an exact Relation of the late Skirmiſh at White-Hall upon Tueſday laſt, <hi>May</hi> 16. between the Parliaments Forces, and the Inhabitants of Surrey, with the manner of their beginning, and occaſion thereof.</p>
+            <p>Together with a List of the number that were ſlain and taken priſoners on both ſides.</p>
+            <p>Likewiſe, a great Rout in <hi>Northumberland,</hi> and the full particulars thereof.</p>
+            <figure>
+               <head>C R</head>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>
+               <add>MAY 18<hi rend="sup">th.</hi>
+               </add> 
+               <hi>London,</hi> Printed for <hi>R. VVilliamſon.</hi> MDCXLVIII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:161707:2"/>
+            <pb facs="tcp:161707:2"/>
+            <head>An exact RELATION OF The late Fight at <hi>Chepſtow</hi> Caſtle, betwixr the Force under the command of Lieutenant General <hi>Cromwel,</hi> and the Cavaleers commanded by Sir <hi>William Kemiſh.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>OUr Forces are advanced as far as <hi>Chepſtow,</hi> and Orders and Instructions are given out by the Lieut. Gen. to the Party deſigned for the blocking up of the Caſtle, and the reducing of it to the obedience and ſubjection of Parliament. Our quarters are appoin<g ref="char:EOLhyphen"/>ted, and we have cut off ſeverall paſſages for the hinde<g ref="char:EOLhyphen"/>ring of proviſions from going to the Castle. We draw neerer and neerer to the Wals, and receive many vol<g ref="char:EOLhyphen"/>leyes of ſhot from them, and they from us. But at our firſt comming hither, the Lieutenant Generall ſent in a ſummons to ſir <hi>William Kemiſh,</hi> Governour of the
+<pb facs="tcp:161707:3"/>
+ſaid Caſtle, for the ſurrender thereof upon fair tearms, but he moſt inſolently refuſed the ſame, and hung forth his flag of defiance, who in ſtead of treating for ſurren<g ref="char:EOLhyphen"/>dring in peace, acted a new poſture for a ſecond En<g ref="char:EOLhyphen"/>gagement firing very faſt from the Caſtle walls, but we ſoon queld their courage, and made them leave ſhoo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing; for having taken a place of advantage neer the Castle, Order was given, that a conſiderable party of Muske<g ref="char:EOLhyphen"/>tiers ſhould be placed there, which was accordingly done, who played ſo violently upon the enemy that they made them pay deer for their peeping, and it is ſuppoſed di<g ref="char:EOLhyphen"/>vers were ſlain and wounded, both by the execution of the ſhot, and the flying of the ſtones: <hi>We ply them cloſe, and keepe ſtrong Guards, and have not loſt above two or three men; but wee are informed, that their loſle is far greater.</hi> It is ſuppoſed they cannot hold out long, and the rather, becauſe the Gover<g ref="char:EOLhyphen"/>nour hath ſent out for a parley, but now it is too late, Sir, this is all from him, who remains</p>
+            <closer>
+               <signed>Yours to ſerve you, R. W.</signed>
+               <dateline>From our Quarters neer <hi>Chepſtow</hi> 
+                  <date>this 13. of <hi>May,</hi> 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:161707:3"/>
+            <head>Letters from the North, declaring the manner of the routing and diſperſing Sir <hi>Marmad. Lang<g ref="char:EOLhyphen"/>dales</hi> Forces in the North, by the Pa<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>liaments Forces belonging to Sir <hi>Arthur Haſle. ig,</hi> Gover<g ref="char:EOLhyphen"/>nour of <hi>Newcaſtle.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THe Cavalry in theſe parts begin to grow very high both in their langu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ge and action, taking their progreſse up and down the Northern Counties, and a party of <hi>Langdales</hi> men came and ſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ized on the town of Morpeth, with an intent to garriſon the ſame; but by the great vigilancy of our Governour hey were prevented, and their deſigns f<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uſtrated; for ſir <hi>Ar<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r Haſl<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rig</hi> having notice thereof immediatly ſent forth a party of Horſe and Foot, but the Enemy having no<g ref="char:EOLhyphen"/>tice of their comming, left the towne, and betook them<g ref="char:EOLhyphen"/>ſelves to their heels; but our party puſued them, and took ſix priſoners, the reſt eſcaped.</p>
+            <p>We hear that the Scots intend to have a Rand<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>v<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>us vpon the 23 of this inſtant Ma<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n to m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ke choice of a Lord Generall And from <hi>We<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>
+               </hi> it is certified that the Enemy in thoſe parts is very a<g ref="char:EOLhyphen"/>ctive; As for other particulars, I refer you to the i<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ſed Paper.</p>
+            <q>
+               <pb facs="tcp:161707:4"/>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="document">
+                        <head>New Propoſitions from the Kingdom of Scotland.</head>
+                        <p>1. ALthough in the anſwer of <hi>April,</hi> 22. Which we received in writing from the Honourable Court of Parli<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ment wee are remitted to their Lordſhips Declaration now printed and publiſh<g ref="char:EOLhyphen"/>ed the<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ein to finde ſatisfaction to our eight deſires, preſented to the Parliament March 22, and although theſe deſires were ſuch as were moſt agreeable to the word of God, and do highly concern the ſafe<g ref="char:EOLhyphen"/>ty and ſecurity or religion, yet after diligent peruſall of the ſaid Deciaration of Parliament, wee cannot find there in any of theſe our eight deſires ſatisfied.</p>
+                        <p>2. We find twice in the ſaid Declaration a paſſage cited out of the Declaration of both Kingdoms, <hi>viz.</hi> That the not takers of the co<g ref="char:EOLhyphen"/>venant are declared to be publike enemies to Religion and Coun<g ref="char:EOLhyphen"/>try, and to be puniſhed as proſeſſed adverſaries and malignants, &amp;c.</p>
+                        <p>As the three breaches of Treaties infiſted upon in the ſaid Decla<g ref="char:EOLhyphen"/>ration are diſputable, and not without controverſie, ſo the three de<g ref="char:EOLhyphen"/>mands ſent to the Parl. of England are of moſt dangerous conſe<g ref="char:EOLhyphen"/>quence to Religion, ſo far as we are able to judge of them, or pry into them.</p>
+                        <p>And although we are reall well-wiſhers to his Maj<g ref="char:punc">▪</g> honour, free<g ref="char:EOLhyphen"/>dome, and ſafety, in ſuch a way as may not be inconſiſtent with the ſafety and ſecurity of Religion; yet the demand of his Maj. coming with honour freedome and ſafety to ſome of his houſes in or neare London before ſecurity had from him, yea before application to be made to him by his Parliaments, for ſetling Religion according to to the Covenant, we conceive to be not only a poſtponing to the Kings, but an apparent hazard of the ſubverſion of all the Ends of the Covenant; conſidering, that the Army being disbanded, and his Majeſty under no reſtraint, being reſtored with honour, freedome, and ſafety, may gather new ſtrength with the Popiſh, Prelaticall, and malignant party, for hindering the ſetling of Religion &amp; peace according to the Covenant, which we have the more reaſon to ap<g ref="char:EOLhyphen"/>prehend, his Majeſty ſtill retaining his old principles and having not long ſince profeſſed and declared that he is obliged in con<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>cience to improve th<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>t power which God ſhall put in his hands for the eſta<g ref="char:EOLhyphen"/>bliſhing of Epiſcopacy.</p>
+                        <p>
+                           <pb facs="tcp:161707:4"/>4 There are in the ſaid Deelaration divers particulars highly concerning Religion determined and reſolved upon without the advice and conſent of the Generall Aſſembly, or their Commiſho<g ref="char:EOLhyphen"/>ners which is a great prejudice to the juſt intereſt and liberties of the Ki<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>k.</p>
+                        <p>5 We do find in the ſaid Declaration all law<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ull and poſſible ways of peace and namely by Tr<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>aties which method we conceive to be neceſſary as well by common and na<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>urall equity, as by the Word of God and eſpecially between two Kingdoms united by Solemne Covenant.</p>
+                        <p>6. The Declaration holds forth no reſolution of Parliament for oppoſing and ſuppreſling of the Popiſh, Prelaticall, or Malignant party if they riſe again in Armes<g ref="char:punc">▪</g> but onely againſt aſſ<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ciating or joyning forces with them, and not ſo much as that except with li<g ref="char:EOLhyphen"/>mitations in caſe they be refuſers to ſwear and ſubſcribe the Cove<g ref="char:EOLhyphen"/>nant, and in caſe the riſe in Armes to oppoſe and obſtruct all, or any one of the ends of the Covenant. Whereas it may be eaſily foreſeen, that if the Popiſh Prelaticall or Malignant party riſe a<g ref="char:EOLhyphen"/>gain in Armes in England they cannot onely conceale their inten<g ref="char:EOLhyphen"/>tions againſt the end of the Coyenant, but alſo be eaſily exempted from being reckoned refuſers of the Covenant, the Covenant not be<g ref="char:EOLhyphen"/>ing now impoſed upon them; and being once ſuffered to riſe in Armes (as ſome are already) may grow ſo ſtrong, as that it will bee very hard and difficult to ſuppreſſe them.</p>
+                        <p>7 Whereas wee have inſiſted for ſatisfaction to our conſclences, concerning the perſons to bee entruſted with the managing of the war, and that none may be imployed in Committees and Armies but ſuch as have given conſtant proof of their integrity and faith<g ref="char:EOLhyphen"/>fulneſſe.</p>
+                        <p>Finally, as we neither were, nor are againſt an Engagement, if once ſatisfied in the grounds of undertaking, and manner of procee<g ref="char:EOLhyphen"/>ding, and the other particulars expreſſed in our ſormer papers; ſo for the reaſons before mentioned and divers others fully expreſted in our Repreſentation upon the Declaration, we judge the preſent Engagement, as it is ſtated unlawfull: and truſt that all the well-af<g ref="char:EOLhyphen"/>fected in the Kingdome, will make conſcience of their ſolemne Vowes.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <closer>
+               <signed>A. Ker.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:161707:5"/>
+            <head>The particular relation of the skirmiſhing at Westminſter, up<g ref="char:EOLhyphen"/>on Tueſday last May 16. 1648.</head>
+            <p>VPon Tueſday laſt being the 16. of this inſtant <hi>May,</hi> di<g ref="char:EOLhyphen"/>vers of the Inhabitants of <hi>Surry,</hi> and Borough of <hi>South<g ref="char:EOLhyphen"/>wark,</hi> came unto the Parl. &amp; preſented a Petition, <hi>in the name of the Knights, Gentry and Inhabitants of the County of</hi> Sur<g ref="char:EOLhyphen"/>rey. The Petition was received, and thankes, with an anſwer that the Parl. would take their Petition into conſideration with all convenient ſpeed, &amp;c. But divers of the pretended Petitioners grew very inſolent, and ſaid they would have an anſwer preſently; threatning the Parl. openly in Weſtminſt. Hall, ſaying that if they had not a more ſatisfactory anſwer then the <hi>Eſsex</hi> men, they would fall upon the Parl. and pull them out of the houſe. Whereupon the ſouldiers fired at them, &amp; forced them to retreat away; the Horſe from the Mewes charged them likewiſe, forcing ſome to fly one way, and ſome another; many of them were wounded, and ſome ſlain.
+<list>
+                  <head>A Liſt of thoſe that were ſlain and taken priſoners.</head>
+                  <item>
+                     <list>
+                        <head>Slain of the Surrey party.</head>
+                        <item>
+                           <hi>Mr. Baxter,</hi>with 7. others.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <list>
+                        <head>Wounded.</head>
+                        <item>Mr. Hudſton of Southwarke, and</item>
+                        <item>Mr. Lock, with about 30 others were wounded.</item>
+                        <item>About 30 Priſoners taken.</item>
+                        <item>Some Watermen were accidentally wounded, and two of them ſlain.</item>
+                        <item>Of the Parliament ſouldiers 2 were ſlaine, none hurt except an Officer of horſe who was accidentally wounded by the ſhot of a piſtoll.</item>
+                     </list>
+                  </item>
+               </list>
+            </p>
+            <p>This combuſtion in a ſhort time was quite appeaſed, &amp; the Gentry of the Country in all this (for the moſt part) behaved themſelves with moderation.</p>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <p>Imprimatur</p>
+            <closer>
+               <signed>G. M.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
